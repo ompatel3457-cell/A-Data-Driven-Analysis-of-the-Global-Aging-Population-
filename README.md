@@ -45,15 +45,6 @@ Possible engineered features:
 
 ---
 
-#  Example Research Questions
-
-1. **Does brain volume correlate with Alzheimer’s severity (CDR)?**  
-2. **At what age does cognitive decline accelerate?**  
-3. **Can MRI-based features predict early Alzheimer’s?**  
-4. **How does MMSE vary by disease group?**  
-
----
-
 #  Getting Started
 
 ### Clone the repository:
