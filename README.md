@@ -1,7 +1,7 @@
 
 ---
-
-# 🔍 Key Features in the Dataset
+	
+#  Key Features in the Dataset
 
 ### **Clinical Features**
 - **MMSE** (Mini-Mental State Examination): cognitive function  
@@ -23,7 +23,7 @@
 
 ---
 
-# 🧠 Modeling Approach
+#  Modeling Approach
 
 ### **1. Data Preprocessing**
 - Handling missing values  
@@ -45,7 +45,7 @@ Possible engineered features:
 
 ---
 
-# 📊 Example Research Questions
+#  Example Research Questions
 
 1. **Does brain volume correlate with Alzheimer’s severity (CDR)?**  
 2. **At what age does cognitive decline accelerate?**  
@@ -54,7 +54,7 @@ Possible engineered features:
 
 ---
 
-# 🚀 Getting Started
+#  Getting Started
 
 ### Clone the repository:
 ```bash
