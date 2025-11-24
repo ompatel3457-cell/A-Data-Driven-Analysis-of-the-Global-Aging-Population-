@@ -68,5 +68,5 @@ Possible engineered features:
 
 ### Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/global-aging-analysis.git
+git clone (https://github.com/ompatel3457-cell/global-aging-analysis.git)
 cd global-aging-analysis
