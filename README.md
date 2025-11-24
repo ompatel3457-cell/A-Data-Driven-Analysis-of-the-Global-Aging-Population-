@@ -54,16 +54,6 @@ Possible engineered features:
 
 ---
 
-# 👥 Project Team (Group 7)
-
-- Vishal Sharma — Data Research Lead  
-- Harjeet Kaur — Literature & Analysis  
-- Om Patel — Data Engineering  
-- Kirti Sharma — Visualization & Modeling  
-- Krupa Patel — Documentation & Reporting  
-
----
-
 # 🚀 Getting Started
 
 ### Clone the repository:
