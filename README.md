@@ -186,6 +186,5 @@ This project demonstrates how machine learning can be applied to healthcare data
 
 ## ⭐ Acknowledgements
 
-* St. Clair College
 * Open-source dataset providers
 * Python & Scikit-learn community
