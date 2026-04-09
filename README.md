@@ -171,10 +171,10 @@ Alzheimers_Project/
 ## 👥 Team Members
 
 * Vishal Sharma
-* Harjeet Kaur
+*  Krupa Patel
 * Om Patel
 * Kirti Sharma
-* Krupa Patel
+* Harjeet Kaur
 
 ---
 
